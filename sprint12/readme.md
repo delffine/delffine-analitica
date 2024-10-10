@@ -6,5 +6,5 @@ TED (от англ. technology, education, design — «технологии, о
 
 Для создания дашбордов использован BI-инструмент Tableau
 
-https://public.tableau.com/views/sprint12-project/sheet23
+[Сcылка на дашбор в Tableau pulic](https://public.tableau.com/views/sprint12-project/sheet23)
 
